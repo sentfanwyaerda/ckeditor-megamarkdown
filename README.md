@@ -7,6 +7,12 @@ Well, **MegaMarkdown**, it is a blend of several human-readable markups, with [M
 
 In the configuration of the plug-in you could chooce which flavours you want to allow.
 
-### RoadMap
+### Features:
+- *all* BBcode (equally like the [BBcode plug-in](http://ckeditor.com/addon/bbcode))
+
+### RoadMap:
 - *(first)* adapt the BBcode to minimal MarkDown
 - .. to be determined
+
+### License:
+The original branch (*"official-bbcode-plugin"*) follows the releases of CKeditor/[CKSource](http://ckeditor.com/users/CKSource) publiced on [http://ckeditor.com/addon/bbcode](http://ckeditor.com/addon/bbcode), as such it is licensed as [GPL](http://opensource.org/licenses/gpl-3.0.html) / [LGPL](http://opensource.org/licenses/lgpl-3.0.html) / [MPL](http://opensource.org/licenses/MPL-1.1) / [CKSource CDL](http://cksource.com/cdl). This fork (*"master"*) firstly respects the original licenses and on a secondairy level &mdash; the 'copyright of the alterations' &mdash; is licensed under [Creative Commons, Attribution-NoDerivs 3.0 Unported](http://creativecommons.org/licenses/by-nd/3.0/) (cc-by-nd).
