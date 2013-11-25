@@ -1,0 +1,27 @@
+{
+	"singlespaced": "true",
+	"standard": ["IRC", "BBcode"],
+	"headings": {
+		"underlined": "true",
+		"style": ["MarkDown", "TaskPaper"]
+	},
+	"links": ["GFM", "BBcode", "auto-detect"],
+	"tasks": {
+		"indent-spaces": 4,
+		"style": ["GFM", "TaskPaper"]
+	},
+	"tables": {
+		"auto-detect": "true",
+		"style": ["MarkDown"]
+	},
+	"code": {
+		"allow-languages": ["php","json","javascript","taskpaper","markdown","html"],
+		"syntax-highlighting": "true"
+	},
+	"language": {
+		"default": "en",
+		"style": ["BBcode"],
+		"auto-close": "true",
+		"undefined-language": "true"
+	}
+}
